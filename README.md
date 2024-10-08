@@ -1,4 +1,4 @@
-# Dynimic-Pricing-Classifier
+# Dynamic-Pricing-Classifier
 
 
 Dynamic Pricing Classifier
